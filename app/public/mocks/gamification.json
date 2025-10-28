@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Carlos López",
+    "position": "Desarrollador Frontend",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+    "points": 420,
+    "level": 5,
+    "badges": [
+      {
+        "id": 101,
+        "name": "Código Limpio",
+        "description": "Entrega código bien documentado y legible.",
+        "icon": "https://img.icons8.com/color/48/000000/code.png"
+      },
+      {
+        "id": 102,
+        "name": "Proyectos Completados",
+        "description": "Finalizó 5 proyectos exitosamente.",
+        "icon": "https://img.icons8.com/color/48/000000/checkmark.png"
+      }
+    ],
+    "tasksCompleted": 35,
+    "hoursLogged": 120
+  },
+  {
+    "id": 2,
+    "name": "María Fernández",
+    "position": "Desarrolladora Backend",
+    "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+    "points": 380,
+    "level": 4,
+    "badges": [
+      {
+        "id": 103,
+        "name": "Debug Master",
+        "description": "Resolvió errores complejos en tiempo récord.",
+        "icon": "https://img.icons8.com/color/48/000000/bug.png"
+      },
+      {
+        "id": 104,
+        "name": "Entrega Rápida",
+        "description": "Entregó un proyecto antes de la fecha límite.",
+        "icon": "https://img.icons8.com/color/48/000000/fast-forward.png"
+      }
+    ],
+    "tasksCompleted": 28,
+    "hoursLogged": 110
+  },
+  {
+    "id": 3,
+    "name": "Juan Pérez",
+    "position": "UX/UI Designer",
+    "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+    "points": 500,
+    "level": 6,
+    "badges": [
+      {
+        "id": 105,
+        "name": "Creatividad",
+        "description": "Diseños innovadores y atractivos.",
+        "icon": "https://img.icons8.com/color/48/000000/idea.png"
+      },
+      {
+        "id": 106,
+        "name": "Prototipos Eficientes",
+        "description": "Realizó prototipos claros y funcionales.",
+        "icon": "https://img.icons8.com/color/48/000000/mockup.png"
+      }
+    ],
+    "tasksCompleted": 40,
+    "hoursLogged": 130
+  },
+  {
+    "id": 4,
+    "name": "Ana Gómez",
+    "position": "Project Manager",
+    "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+    "points": 450,
+    "level": 5,
+    "badges": [
+      {
+        "id": 107,
+        "name": "Liderazgo",
+        "description": "Coordinó al equipo de manera efectiva.",
+        "icon": "https://img.icons8.com/color/48/000000/leader.png"
+      },
+      {
+        "id": 108,
+        "name": "Gestión de Proyectos",
+        "description": "Mantuvo proyectos dentro del presupuesto y tiempo.",
+        "icon": "https://img.icons8.com/color/48/000000/project.png"
+      }
+    ],
+    "tasksCompleted": 32,
+    "hoursLogged": 125
+  },
+  {
+    "id": 5,
+    "name": "Luis Ramírez",
+    "position": "Analista de Datos",
+    "avatar": "https://randomuser.me/api/portraits/men/55.jpg",
+    "points": 390,
+    "level": 4,
+    "badges": [
+      {
+        "id": 109,
+        "name": "Analista Experto",
+        "description": "Interpretó datos complejos y generó insights valiosos.",
+        "icon": "https://img.icons8.com/color/48/000000/combo-chart.png"
+      },
+      {
+        "id": 110,
+        "name": "Optimización",
+        "description": "Mejoró procesos con base en análisis de datos.",
+        "icon": "https://img.icons8.com/color/48/000000/optimization.png"
+      }
+    ],
+    "tasksCompleted": 30,
+    "hoursLogged": 115
+  },
+  {
+    "id": 6,
+    "name": "Sofía Torres",
+    "position": "Desarrolladora Frontend",
+    "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+    "points": 410,
+    "level": 5,
+    "badges": [
+      {
+        "id": 111,
+        "name": "Diseño Responsivo",
+        "description": "Crea interfaces que se adaptan a todos los dispositivos.",
+        "icon": "https://img.icons8.com/color/48/000000/responsive.png"
+      },
+      {
+        "id": 112,
+        "name": "Código Limpio",
+        "description": "Entrega código bien documentado y legible.",
+        "icon": "https://img.icons8.com/color/48/000000/code.png"
+      }
+    ],
+    "tasksCompleted": 34,
+    "hoursLogged": 118
+  },
+  {
+    "id": 7,
+    "name": "Diego Castillo",
+    "position": "Desarrollador Backend",
+    "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
+    "points": 500,
+    "level": 4,
+    "badges": [
+      {
+        "id": 113,
+        "name": "Integraciones API",
+        "description": "Conectó múltiples sistemas de manera eficiente.",
+        "icon": "https://img.icons8.com/color/48/000000/api.png"
+      },
+      {
+        "id": 114,
+        "name": "Optimización de Código",
+        "description": "Mejoró rendimiento del backend.",
+        "icon": "https://img.icons8.com/color/48/000000/speed.png"
+      }
+    ],
+    "tasksCompleted": 29,
+    "hoursLogged": 112
+  }
+]
