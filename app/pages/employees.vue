@@ -69,13 +69,13 @@ const filteredEmployees = computed(() => {
         <InputText v-model="filters.department" placeholder="Buscar por departamento" />
       </span>
 
-      <Dropdown
+ <!--      <Dropdown
         v-model="filters.isActive"
         :options="statusOptions"
         optionLabel="label"
         placeholder="Estado"
         class="w-40"
-      />
+      /> -->
 
       <Button
         :label="filters.birthdayToday ? 'Mostrar Todos' : 'Cumpleaños Hoy'"
