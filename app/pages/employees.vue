@@ -53,7 +53,7 @@ const filteredEmployees = computed(() => {
     <h1 class="text-2xl font-bold mb-4">Lista de Empleados</h1>
 <Card class="w-full p-6 rounded-2xl shadow-lg bg-gradient-to-r from-red-50 via-white to-red-100 backdrop-blur mb-4">
   <p class="text-gray-700 leading-relaxed text-xl">
-    En esta vista puedes consultar la lista de empleados de la empresa. Utiliza los filtros para buscar por nombre, departamento, estado (activo o inactivo) o para ver quiénes cumplen años hoy.
+    En esta vista puedes consultar la lista de empleados de la empresa. Utiliza los filtros para buscar por nombre, departamento o para ver quiénes cumplen años hoy.
   </p>
 </Card>
 
