@@ -28,7 +28,7 @@
 
       <nav class="flex-1 px-4 py-6 space-y-2">
         <NuxtLink
-          to="/alexGoumaz"
+          to="/"
           @click="closeMenu"
           class="block text-red-600 font-semibold px-4 py-2 rounded hover:bg-gray-100 transition"
           active-class="bg-gray-100"
@@ -37,7 +37,7 @@
         </NuxtLink>
 
         <NuxtLink
-          to="/"
+          to="/dashboard"
           @click="closeMenu"
           class="block text-red-600 font-semibold px-4 py-2 rounded hover:bg-gray-100 transition"
           active-class="bg-gray-100"
